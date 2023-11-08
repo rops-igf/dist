@@ -1,0 +1,583 @@
+img,img.mock {
+  text-indent: -999px; /* hides alt error, no need for empty.png */
+}
+
+.input-mock-normal {
+  display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4649px;
+  left: 699px;
+  background-position: -699px -4650px;
+  width: 412px;
+  height: 53px;
+}
+
+.input-mock-required {
+  display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2171px;
+  left: 687px;
+  background-position: -687px -2158px;
+  width: 416px;
+  height: 53px;
+}
+
+.d-1 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 518px;
+  left: 682px;
+  background-position: -682px -518px;
+  width: 1011px;
+  height: 62px;}
+
+.d-2 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 612px;
+  left: 686px;
+  background-position: -686px -612px;
+  width: 996px;
+  height: 527px;}
+
+.d-3 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1184px;
+  left: 686px;
+  background-position: -686px -1184px;
+  width: 988px;
+  height: 199px;}
+
+.d-4 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1355px;
+  left: 1518px;
+  background-position: -1518px -1355px;
+  width: 166px;
+  height: 171px;}
+
+.d-5 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1435px;
+  left: 686px;
+  background-position: -686px -1435px;
+  width: 389px;
+  height: 42px;}
+
+.d-6 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1492px;
+  left: 683px;
+  background-position: -683px -1492px;
+  width: 365px;
+  height: 103px;}
+
+.d-7 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1492px;
+  left: 1302px;
+  background-position: -1302px -1492px;
+  width: 327px;
+  height: 103px;}
+
+.d-8 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1494px;
+  left: 1009px;
+  background-position: -1009px -1494px;
+  width: 332px;
+  height: 99px;}
+
+.d-9 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1675px;
+  left: 699px;
+  background-position: -699px -1675px;
+  width: 168px;
+  height: 184px;}
+
+.d-10 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1674px;
+  left: 879px;
+  background-position: -879px -1674px;
+  width: 170px;
+  height: 186px;}
+
+.d-11 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1679px;
+  left: 1240px;
+  background-position: -1240px -1679px;
+  width: 169px;
+  height: 183px;}
+
+.d-12 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1678px;
+  left: 1421px;
+  background-position: -1421px -1678px;
+  width: 163px;
+  height: 183px;}
+
+.d-13 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1702px;
+  left: 745px;
+  background-position: -745px -1702px;
+  width: 76px;
+  height: 78px;}
+
+.d-14 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1710px;
+  left: 925px;
+  background-position: -925px -1710px;
+  width: 68px;
+  height: 109px;}
+
+.d-15 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1711px;
+  left: 1104px;
+  background-position: -1104px -1711px;
+  width: 77px;
+  height: 65px;}
+
+.d-16 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1705px;
+  left: 1286px;
+  background-position: -1286px -1705px;
+  width: 75px;
+  height: 77px;}
+
+.d-17 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1711px;
+  left: 1472px;
+  background-position: -1472px -1711px;
+  width: 65px;
+  height: 64px;}
+
+.d-18 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 1954px;
+  left: 691px;
+  background-position: -691px -1954px;
+  width: 889px;
+  height: 85px;}
+
+.d-19 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2061px;
+  left: 686px;
+  background-position: -686px -2061px;
+  width: 416px;
+  height: 77px;}
+
+.d-20 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2171px;
+  left: 687px;
+  background-position: -687px -2171px;
+  width: 416px;
+  height: 45px;}
+
+.d-21 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2257px;
+  left: 682px;
+  background-position: -682px -2257px;
+  width: 422px;
+  height: 60px;}
+
+.d-22 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2347px;
+  left: 681px;
+  background-position: -681px -2347px;
+  width: 221px;
+  height: 77px;}
+
+.d-23 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2055px;
+  left: 679px;
+  background-position: -679px -2055px;
+  width: 435px;
+  height: 374px;}
+
+.d-24 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2043px;
+  left: 1143px;
+  background-position: -1143px -2043px;
+  width: 418px;
+  height: 65px;}
+
+.d-25 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2157px;
+  left: 1146px;
+  background-position: -1146px -2157px;
+  width: 219px;
+  height: 27px;}
+
+.d-26 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2188px;
+  left: 1146px;
+  background-position: -1146px -2188px;
+  width: 214px;
+  height: 26px;}
+
+.d-27 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2219px;
+  left: 1146px;
+  background-position: -1146px -2219px;
+  width: 239px;
+  height: 26px;}
+
+.d-28 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2251px;
+  left: 1148px;
+  background-position: -1148px -2251px;
+  width: 19px;
+  height: 21px;}
+
+.d-29 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2281px;
+  left: 1148px;
+  background-position: -1148px -2281px;
+  width: 19px;
+  height: 19px;}
+
+.d-30 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2249px;
+  left: 1143px;
+  background-position: -1143px -2249px;
+  width: 446px;
+  height: 28px;}
+
+.d-31 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2281px;
+  left: 1143px;
+  background-position: -1143px -2281px;
+  width: 408px;
+  height: 26px;}
+
+.d-32 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2320px;
+  left: 1149px;
+  background-position: -1149px -2320px;
+  width: 422px;
+  height: 77px;}
+
+.d-33 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2119px;
+  left: 1137px;
+  background-position: -1137px -2119px;
+  width: 459px;
+  height: 291px;}
+
+.d-34 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2461px;
+  left: 686px;
+  background-position: -686px -2461px;
+  width: 421px;
+  height: 94px;}
+
+.d-35 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2457px;
+  left: 1153px;
+  background-position: -1153px -2457px;
+  width: 419px;
+  height: 93px;}
+
+.d-36 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2454px;
+  left: 1148px;
+  background-position: -1148px -2454px;
+  width: 438px;
+  height: 223px;}
+
+.d-37 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2667px;
+  left: 690px;
+  background-position: -690px -2667px;
+  width: 891px;
+  height: 106px;}
+
+.d-38 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2795px;
+  left: 694px;
+  background-position: -694px -2795px;
+  width: 886px;
+  height: 211px;}
+
+.d-39 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 2663px;
+  left: 688px;
+  background-position: -688px -2663px;
+  width: 901px;
+  height: 353px;}
+
+.d-40 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3036px;
+  left: 688px;
+  background-position: -688px -3036px;
+  width: 905px;
+  height: 116px;}
+
+.d-41 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3033px;
+  left: 686px;
+  background-position: -686px -3033px;
+  width: 910px;
+  height: 281px;}
+
+.d-42 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3164px;
+  left: 694px;
+  background-position: -694px -3164px;
+  width: 417px;
+  height: 65px;}
+
+.d-43 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3166px;
+  left: 1159px;
+  background-position: -1159px -3166px;
+  width: 413px;
+  height: 60px;}
+
+.d-44 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3244px;
+  left: 695px;
+  background-position: -695px -3244px;
+  width: 417px;
+  height: 63px;}
+
+.d-45 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3247px;
+  left: 1154px;
+  background-position: -1154px -3247px;
+  width: 412px;
+  height: 56px;}
+
+.d-46 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3353px;
+  left: 689px;
+  background-position: -689px -3353px;
+  width: 493px;
+  height: 69px;}
+
+.d-47 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3462px;
+  left: 695px;
+  background-position: -695px -3462px;
+  width: 878px;
+  height: 135px;}
+
+.d-48 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3631px;
+  left: 688px;
+  background-position: -688px -3631px;
+  width: 886px;
+  height: 106px;}
+
+.d-49 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3773px;
+  left: 688px;
+  background-position: -688px -3773px;
+  width: 888px;
+  height: 98px;}
+
+.d-50 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4009px;
+  left: 694px;
+  background-position: -694px -4009px;
+  width: 422px;
+  height: 120px;}
+
+.d-51 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4011px;
+  left: 1164px;
+  background-position: -1164px -4011px;
+  width: 420px;
+  height: 126px;}
+
+.d-52 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 3885px;
+  left: 687px;
+  background-position: -687px -3885px;
+  width: 901px;
+  height: 537px;}
+
+.d-53 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4170px;
+  left: 695px;
+  background-position: -695px -4170px;
+  width: 883px;
+  height: 239px;}
+
+.d-54 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4448px;
+  left: 691px;
+  background-position: -691px -4448px;
+  width: 901px;
+  height: 98px;}
+
+.d-55 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4576px;
+  left: 697px;
+  background-position: -697px -4576px;
+  width: 415px;
+  height: 62px;}
+
+.d-56 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4574px;
+  left: 1166px;
+  background-position: -1166px -4574px;
+  width: 418px;
+  height: 63px;}
+
+.d-57 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4649px;
+  left: 699px;
+  background-position: -699px -4649px;
+  width: 412px;
+  height: 60px;}
+
+.d-58 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4645px;
+  left: 1167px;
+  background-position: -1167px -4645px;
+  width: 415px;
+  height: 62px;}
+
+.d-59 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4724px;
+  left: 697px;
+  background-position: -697px -4724px;
+  width: 413px;
+  height: 69px;}
+
+.d-60 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4819px;
+  left: 695px;
+  background-position: -695px -4819px;
+  width: 888px;
+  height: 95px;}
+
+.d-61 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4940px;
+  left: 707px;
+  background-position: -707px -4940px;
+  width: 165px;
+  height: 23px;}
+
+.d-62 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4444px;
+  left: 688px;
+  background-position: -688px -4444px;
+  width: 911px;
+  height: 531px;}
+
+.d-63 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 5021px;
+  left: 689px;
+  background-position: -689px -5021px;
+  width: 892px;
+  height: 144px;}
+
+.d-64 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 5204px;
+  left: 1368px;
+  background-position: -1368px -5204px;
+  width: 206px;
+  height: 52px;}
+
+.d-65 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 5285px;
+  left: 695px;
+  background-position: -695px -5285px;
+  width: 827px;
+  height: 51px;}
+
+.d-66 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 5363px;
+  left: 710px;
+  background-position: -710px -5363px;
+  width: 17px;
+  height: 21px;}
+
+.d-67 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 5352px;
+  left: 693px;
+  background-position: -693px -5352px;
+  width: 835px;
+  height: 55px;}
+
+.d-68 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 5271px;
+  left: 688px;
+  background-position: -688px -5271px;
+  width: 871px;
+  height: 148px;}
+
+.d-69 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4019px;
+  left: 1516px;
+  background-position: -1516px -4019px;
+  width: 64px;
+  height: 52px;}
+
+.d-70 {display: inline-block;
+  background-image: url("./Załącznik-2-1.png");
+  top: 4265px;
+  left: 1121px;
+  background-position: -1121px -4265px;
+  width: 35px;
+  height: 40px;}

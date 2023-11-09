@@ -1,5 +1,5 @@
 img,img.mock {
-  text-indent: -999px; /* hides alt error, no need for empty.png */
+  text-indent: -999px !important; /* hides alt error, no need for empty.png */
 }
 
 .input-mock-normal {

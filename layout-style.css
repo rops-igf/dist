@@ -14,7 +14,7 @@
   top: 225px;
 }
 
-.blocks select {
+.blocks select:not([size]) {
   height: 30px;
 }
 
@@ -162,7 +162,9 @@ select,
 }
 
 .form-builder-cont {
-  background: #ffffff8a url("/assets/bg.svg");
+  /* background: #ffffff8a url("/assets/bg.svg"); */
+  /* background-color: #dddddd; */
+  background-color: snow;
 }
 
 .form-builder-cont .controls-1 {
@@ -174,7 +176,7 @@ select,
   margin: auto 16px;
 }
 
-.form-builder-cont .controls-1 .btn {
+.form-builder-cont .controls-1 .r-btn {
   padding: 1px;
 }
 
@@ -183,7 +185,7 @@ select,
   justify-content: space-between;
 }
 
-.controls-2 .btn {
+.controls-2 .r-btn {
   flex: 1;
   display: flex;
   justify-content: space-between;
@@ -195,11 +197,11 @@ select,
   border: 1px solid lightgrey;
 }
 
-.controls-2 .btn:hover {
+.controls-2 .r-btn:hover {
   border: 1px solid black;
 }
 
-.controls-2 .btn img {
+.controls-2 .r-btn img {
   width: 80px;
 }
 
